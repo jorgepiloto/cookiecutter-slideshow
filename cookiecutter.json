@@ -4,4 +4,5 @@
     "slideshow_title": "My awesome talk",
     "slideshow_author": "Jorge M.G.",
     "slideshow_date": "DD/MM/YYYY"
+    "_copy_without_render": ["*.sty"]
 }
