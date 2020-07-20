@@ -3,6 +3,6 @@
     "slides_name": "slides",
     "slideshow_title": "My awesome talk",
     "slideshow_author": "Jorge M.G.",
-    "slideshow_date": "DD/MM/YYYY"
+    "slideshow_date": "DD/MM/YYYY",
     "_copy_without_render": ["*.sty"]
 }
