@@ -9,6 +9,10 @@ presentations.
 Repository layout is designed to serve as cookiecutter template, so user can
 easily customize and start a new slideshow.
 
+<p align="center">
+  <img src="preview.png" />
+</p>
+
 
 How to install and use
 ----------------------
@@ -28,6 +32,13 @@ cookiecutter gh:jorgepiloto/cookiecutter-slideshow
 
 Several questions will be asked to you: title for your presentation, author,
 color palette...
+
+If you are using a Linux distribution, you can easily present within your
+terminal by running evince document reader in slideshow mode:
+
+```
+evince -s output_slides.pdf
+```
 
 
 Authors
